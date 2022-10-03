@@ -6,10 +6,10 @@ Python implementation of complete and rigorous least-squares adjustment (based o
 
 Create Anaconda environment and install requirements
 
-'''bash
+```bash
 conda create -n rotra3d python=3.10
 conda activate rotra3d
 pip install -r requirements.txt
-'''
+```
 
 ## How to use it
